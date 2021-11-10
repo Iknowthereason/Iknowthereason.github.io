@@ -1,4 +1,9 @@
 
+#grad1 {
+  height: 500px;
+  background-color: #cccccc;
+  background-image: linear-gradient(red, Green);
+}
 h1{
     color: Red;
     border-style: solid;
@@ -25,7 +30,4 @@ label{
 }
 progress{
     color: Red;
-}
-body{
-    background-image: url(https://www.cryptoemotions.com/wp-content/uploads/2019/09/when-moon-meaning-in-cryptocurrency-crypto-emotions-min-780x507.png);
 }
