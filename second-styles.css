@@ -1,9 +1,4 @@
 
-#grad1 {
-  height: 500px;
-  background-color: #cccccc;
-  background-image: linear-gradient(red, Green);
-}
 h1{
     color: Red;
     border-style: solid;
@@ -30,4 +25,7 @@ label{
 }
 progress{
     color: Red;
+}
+body{
+    background-image: url(https://sportsbet.imgix.net/news/1A+Bitcasino/bitcoin-mooning-large.jpg?auto=compress&auto=format?w=1200&auto=compress,enhance,format);
 }
