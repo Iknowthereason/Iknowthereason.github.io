@@ -1,18 +1,20 @@
 
 h1{
     color: Red;
-    border-style: solid;
-    border-width: medium;
+    border-style: 1px solid;
+    border-width: small;
+    margin: 25px;
     border-color:Black;
 }
 h2{
     color: Green;
-    border-style: solid;
-    border-width: medium;
+    border-style: 1px solid;
+    border-width: small;
+    margin: 25px;
     border-color:Black;
 }
 p{
-    background-color: black;
+    background-color: lightblue;
     color: Red;
     border: 2.5px solid Black;
     border-radius: 5px;
