@@ -13,15 +13,9 @@ h2{
     border-width: medium;
     border-color:Black;
 }
-h3{
-    color: Blue;
-    border-style: solid;
-    border-width: medium;
-    border-color:Black;
-}
 p{
-    background-color: darkgray;
-    color: white;
+    background-color: black;
+    color: Red;
     border: 2.5px solid Black;
     border-radius: 5px;
 }
