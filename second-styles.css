@@ -1,0 +1,36 @@
+body{
+    background-image:(https://www.cryptoemotions.com/wp-content/uploads/2019/09/when-moon-meaning-in-cryptocurrency-crypto-emotions-min-780x507.png);
+}
+h1{
+    color: Red;
+    border-style: solid;
+    border-width: medium;
+    border-color:Black;
+}
+h2{
+    color: Green;
+    border-style: solid;
+    border-width: medium;
+    border-color:Black;
+}
+h3{
+    color: Blue;
+    border-style: solid;
+    border-width: medium;
+    border-color:Black;
+}
+p{
+    background-color: darkgray;
+    color: white;
+    border: 2.5px solid Black;
+    border-radius: 5px;
+}
+figcaption{
+    color: Red;
+}
+label{
+    color: Red;
+}
+progress{
+    color: Red;
+}
