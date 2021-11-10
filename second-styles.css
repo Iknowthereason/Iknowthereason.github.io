@@ -1,15 +1,15 @@
 
 h1{
     color: Red;
-    border-style: 1px solid;
-    border-width: small;
+    border-style: inset;
+    border-width: medium;
     margin: 25px;
     border-color:Black;
 }
 h2{
     color: Green;
-    border-style: 1px solid;
-    border-width: small;
+    border-style: inset;
+    border-width: medium;
     margin: 25px;
     border-color:Black;
 }
