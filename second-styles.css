@@ -31,3 +31,8 @@ progress{
 body{
     background-image: url(https://sportsbet.imgix.net/news/1A+Bitcasino/bitcoin-mooning-large.jpg?auto=compress&auto=format?w=1200&auto=compress,enhance,format);
 }
+body {
+width: 90%;
+margin-left: auto;
+margin-right: auto;
+}  
