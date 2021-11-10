@@ -1,19 +1,19 @@
 
 header {
-  background-color: #666;
-  padding: 30px;
+  background-color: #111;
+  padding: 33px;
   text-align: center;
-  font-size: 35px;
-  color: white;
+  font-size: 33px;
+  color: blue;
 }
 
 
 nav {
   float: left;
-  width: 20%;
-  height: 300px;
-  background: red);
-  padding: 20px;
+  width: 25%;
+  height: 250px;
+  background: Red);
+  padding: 25px;
 }
 
 
@@ -25,8 +25,8 @@ nav ul {
 article {
   float: right;
   padding: 20px;
-  width: 70%;
-  background-color: white;
+  width: 50%;
+  background-color: Red;
   height: 300px;
 }
 
@@ -39,10 +39,10 @@ section::after {
 
 
 footer {
-  background-color: #777;
-  padding: 10px;
+  background-color: #457;
+  padding: 15px;
   text-align: center;
-  color: white;
+  color: Red;
 }
 }
 .letters {list-style-type: lower-alpha;}
