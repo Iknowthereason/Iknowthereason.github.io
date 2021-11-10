@@ -27,6 +27,8 @@ label{
 progress{
     color: Red;
 }
+.letters {list-style-type: lower-alpha;}
+.squares {list-style-type: square;}
 body{
     background-image: url(https://pelaajat.com/wp-content/uploads/2019/08/ed1.png);
 }
