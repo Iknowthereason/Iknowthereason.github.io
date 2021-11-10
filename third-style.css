@@ -1,34 +1,57 @@
-h1{
-    color: Red;
-    border-style: inset;
-    border-width: medium;
-    margin: 25px;
-    border-color:Black;
+
+header {
+  background-color: #666;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
 }
-h2{
-    color: Green;
-    border-style: inset;
-    border-width: medium;
-    margin: 25px;
-    border-color:Black;
+
+
+nav {
+  float: left;
+  width: 20%;
+  height: 300px;
+  background: red);
+  padding: 20px;
 }
-p{
-    background-color: lightblue;
-    color: Red;
-    border: 2.5px solid Black;
-    border-radius: 5px;
+
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
 }
-figcaption{
-    color: Red;
+
+article {
+  float: right;
+  padding: 20px;
+  width: 70%;
+  background-color: white;
+  height: 300px;
 }
-label{
-    color: Red;
+
+
+section::after {
+  content: "";
+  display: table;
+  clear: both;
 }
-progress{
-    color: Red;
+
+
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
 }
 .letters {list-style-type: lower-alpha;}
 .squares {list-style-type: square;}
 body{
     background-image: url(https://pelaajat.com/wp-content/uploads/2019/08/ed1.png);
 }
+body {
+width: 90%;
+margin-left: auto;
+margin-right: auto;
+}  
